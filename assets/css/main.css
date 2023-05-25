@@ -3997,3 +3997,41 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	li.icon.solid.fa-barcode h3 a {
+		color: white; /* Set the initial color of the text */
+		transition: color 0.3s; /* Add a smooth transition effect */
+	  }
+	  
+	  li.icon.solid.fa-barcode h3 a:hover {
+		color: greenyellow; /* Set the color of the text on hover */
+	  }
+
+	  li.icon.solid.fa-window-maximize h3 a {
+		color: white; /* Set the initial color of the text */
+		transition: color 0.3s; /* Add a smooth transition effect */
+	  }
+	  
+	  li.icon.solid.fa-window-maximize h3 a:hover {
+		color: greenyellow; /* Set the color of the text on hover */
+	  }
+
+	  li.icon.solid.fa-arrows-split-up-and-left h3 a {
+		color: white; /* Set the initial color of the text */
+		transition: color 0.3s; /* Add a smooth transition effect */
+	  }
+	  
+	  li.icon.solid.fa-arrows-split-up-and-left h3 a:hover {
+		color: greenyellow; /* Set the color of the text on hover */
+	  }
+
+	  div.content p a {
+		color: white; /* Set the initial color of the text */
+		transition: color 0.3s; /* Add a smooth transition effect */
+	  }
+	  
+	  div.content p a:hover {
+		color: greenyellow; /* Set the color of the text on hover */
+	  }
+
+	  
